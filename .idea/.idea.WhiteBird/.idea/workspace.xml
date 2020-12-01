@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea93ef60-6852-469e-8b94-1b02ab42e68e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Database" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.4.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Text.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/[TS] Start Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/startGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/CanvasAnimations.cs" />
+        <option value="$PROJECT_DIR$/Assets/Database/Database.cs" />
+        <option value="$PROJECT_DIR$/Assets/Database/saveLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/Music_CC_menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/startGameB.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/Settings.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/Pannel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/Part 1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/Part1.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/PannelMessage.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlotFiles/storyline.txt" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Database/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/Database/CharacterData.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/ColorChanger.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1inwtDeyXy3l5cu5hd2jSiWICsb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35024154" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30032206" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea93ef60-6852-469e-8b94-1b02ab42e68e" name="Default Changelist" comment="" />
+      <created>1602556875990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602556875990</updated>
+      <workItem from="1602556882057" duration="19493000" />
+      <workItem from="1602802680747" duration="2099000" />
+      <workItem from="1602824056893" duration="87000" />
+      <workItem from="1603423966124" duration="2622000" />
+      <workItem from="1604116309232" duration="6261000" />
+      <workItem from="1604446570664" duration="656000" />
+      <workItem from="1604864671780" duration="14694000" />
+      <workItem from="1605800913267" duration="3450000" />
+      <workItem from="1605844529717" duration="12651000" />
+      <workItem from="1605870845053" duration="79000" />
+      <workItem from="1605926310866" duration="306000" />
+      <workItem from="1606225452120" duration="20943000" />
+      <workItem from="1606861663878" duration="707000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created First Branch">
+      <created>1602557155924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602557155924</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Basic Title Screen">
+      <created>1602558090797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602558090797</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed Bug with saving">
+      <created>1602558771033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602558771033</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix another UI scaling bug">
+      <created>1602559425504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602559425504</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Spent a lot of time debugging and learning Unity :(">
+      <created>1602568550490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602568550490</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Clouds now move with an average random speed.">
+      <created>1602738281896</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602738281896</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed Parralx effect computeration error and reduced the extream nature. System still have issues with small windows vs. large wide displays.">
+      <created>1602824155688</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602824155688</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed Menu Bugs&#10;Added character creation screen&#10;Imported basic sprites with movement&#10;Also added subdivision of sprites to allow for colors of tint.">
+      <created>1604177576142</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604177576142</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed Menu Bugs&#10;Added character creation screen&#10;Imported basic sprites with movement&#10;Also added subdivision of sprites to allow for colors of tint.">
+      <created>1604177710292</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604177710292</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Background">
+      <created>1605039634161</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605039634161</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Database Phase One">
+      <created>1605048779850</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605048779851</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Database Phase One">
+      <created>1605048794742</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605048794742</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Working Database implemenation. Files are stored in AppData and they read and write to the Character file.">
+      <created>1605690177946</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605690177946</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added Music To CC Menu">
+      <created>1605695231567</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605695231567</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added Music To Title Menu">
+      <created>1605695346689</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605695346689</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added Movement and Animation setup">
+      <created>1605701348762</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605701348762</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added Movement and Animation setup">
+      <created>1605701363385</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605701363385</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added Title Screen Transition for setting menu, Pending database addition. Which should be straigt forward.">
+      <created>1605804325902</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605804325902</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Unity File manual update.">
+      <created>1605804381208</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605804381208</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Finished Animation For Settings Page.">
+      <created>1605850042686</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605850042686</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Completed Animation for setting transition.">
+      <created>1605853228590</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605853228590</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Finilzied Settings.cs">
+      <created>1605866443477</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605866443477</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Fixed performance Bug">
+      <created>1605867255635</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605867255635</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added basic layout. Idea is to switch between top down and platformer view.">
+      <created>1605870696672</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1605870696672</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added First Draft of Plot for Tutorial_Plot.docx">
+      <created>1605926436785</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605926436786</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added Basic Timeout text system.&#10;TODO add text call&#10;TODO add message queue">
+      <created>1606247949676</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606247949676</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Changed Name of Scene to allow master merge">
+      <created>1606660335901</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606660335901</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Rebased Code and added Database and Character.cs. Movement is controlled by PLayer Controller and Character information is stored inside the Character.cs file for simplicity.">
+      <created>1606661939252</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1606661939252</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added Timothy's story line to the plot folder">
+      <created>1606661979103</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1606661979103</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added Male Female Information to the database">
+      <created>1606662465685</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1606662465685</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added Tutorial Music temporally until a propper music handeler may be implemented.">
+      <created>1606662702923</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1606662702923</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Finished basic Code Rebase">
+      <created>1606666624070</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1606666624070</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Unity Random Files Updated">
+      <created>1606667273138</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1606667273138</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Unity Random Files Updated">
+      <created>1606667349442</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1606667349442</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Fixed Character Saving Bug&#10;My bad.">
+      <created>1606667615326</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1606667615326</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Fully Implemented Gender Control System&#10;&#10;Including animation and Save System">
+      <created>1606672137939</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1606672137939</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Fully Implemented Gender Control System&#10;&#10;Including animation and Save System">
+      <created>1606672169546</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1606672169546</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Removed Debug">
+      <created>1606674355119</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1606674355119</updated>
+    </task>
+    <task id="LOCAL-00039" summary="First UI pass&#10;No functionality yet">
+      <created>1606784453156</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1606784453156</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Database Phase One" />
+    <MESSAGE value="Working Database implemenation. Files are stored in AppData and they read and write to the Character file." />
+    <MESSAGE value="Added Music To CC Menu" />
+    <MESSAGE value="Added Music To Title Menu" />
+    <MESSAGE value="Added Movement and Animation setup" />
+    <MESSAGE value="Added Title Screen Transition for setting menu, Pending database addition. Which should be straigt forward." />
+    <MESSAGE value="Unity File manual update." />
+    <MESSAGE value="Finished Animation For Settings Page." />
+    <MESSAGE value="Completed Animation for setting transition." />
+    <MESSAGE value="Finilzied Settings.cs" />
+    <MESSAGE value="Fixed performance Bug" />
+    <MESSAGE value="Added basic layout. Idea is to switch between top down and platformer view." />
+    <MESSAGE value="Added First Draft of Plot for Tutorial_Plot.docx" />
+    <MESSAGE value="Added Basic Timeout text system.&#10;TODO add text call&#10;TODO add message queue" />
+    <MESSAGE value="Changed Name of Scene to allow master merge" />
+    <MESSAGE value="Rebased Code and added Database and Character.cs. Movement is controlled by PLayer Controller and Character information is stored inside the Character.cs file for simplicity." />
+    <MESSAGE value="Added Timothy's story line to the plot folder" />
+    <MESSAGE value="Added Male Female Information to the database" />
+    <MESSAGE value="Added Tutorial Music temporally until a propper music handeler may be implemented." />
+    <MESSAGE value="Finished basic Code Rebase" />
+    <MESSAGE value="Unity Random Files Updated" />
+    <MESSAGE value="Fixed Character Saving Bug&#10;My bad." />
+    <MESSAGE value="Fully Implemented Gender Control System&#10;&#10;Including animation and Save System" />
+    <MESSAGE value="Removed Debug" />
+    <MESSAGE value="First UI pass&#10;No functionality yet" />
+    <option name="LAST_COMMIT_MESSAGE" value="First UI pass&#10;No functionality yet" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1273" height="390" key="GridCell.Tab.0.bottom" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.0.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.0.center" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.0.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.0.left" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.0.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.0.right" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.0.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.1.bottom" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.1.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.1.center" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.1.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.1.left" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.1.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.1.right" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.1.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.2.bottom" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.2.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.2.center" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.2.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.2.left" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.2.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.2.right" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.2.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.3.bottom" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.3.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.3.center" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.3.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.3.left" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.3.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state width="1273" height="390" key="GridCell.Tab.3.right" timestamp="1605870735654">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1273" height="390" key="GridCell.Tab.3.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605870735654" />
+    <state x="250" y="305" key="MultipleFileMergeDialog" timestamp="1606660386707">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="250" y="305" key="MultipleFileMergeDialog/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606660386707" />
+    <state x="471" y="300" key="Rider.ProjectTemplateDialog.Size" timestamp="1606862008744">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="471" y="300" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606862008744" />
+    <state x="1718" y="260" key="RiderGenerateDialog" timestamp="1605688113159">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1718" y="260" key="RiderGenerateDialog/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1605688113159" />
+    <state x="-842" y="269" key="RiderGenerateDialog/0.0.2560.1080/-2560.9.2560.1080@-2560.9.2560.1080" timestamp="1602564945957" />
+    <state x="457" y="254" key="RollbackChangesDialog" timestamp="1606861187378">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="457" y="254" key="RollbackChangesDialog/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606861187378" />
+    <state x="669" y="245" key="Vcs.Push.Dialog.v2" timestamp="1606860527305">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="669" y="245" key="Vcs.Push.Dialog.v2/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606860527305" />
+    <state x="-1633" y="287" key="Vcs.Push.Dialog.v2/0.0.2560.1080/-2560.9.2560.1080@-2560.9.2560.1080" timestamp="1605048796444" />
+    <state x="927" y="278" key="Vcs.Push.Dialog.v2/0.0.2560.1080/-2560.9.2560.1080@0.0.2560.1080" timestamp="1604177838258" />
+    <state x="903" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606698441711">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="903" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606698441711" />
+    <state x="903" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080/-2560.9.2560.1080@0.0.2560.1080" timestamp="1604182840020" />
+    <state x="412" y="257" key="git4idea.branch.GitSmartOperationDialog" timestamp="1606658600503">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="412" y="257" key="git4idea.branch.GitSmartOperationDialog/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606658600503" />
+    <state x="-1020" y="259" key="run.anything.popup" timestamp="1602563971098">
+      <screen x="-2560" y="9" width="2560" height="1080" />
+    </state>
+    <state x="-1020" y="259" key="run.anything.popup/0.0.2560.1080/-2560.9.2560.1080@-2560.9.2560.1080" timestamp="1602563971098" />
+    <state x="486" y="240" key="search.everywhere.popup" timestamp="1606667732418">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="486" y="240" key="search.everywhere.popup/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606667732418" />
+  </component>
+</project>

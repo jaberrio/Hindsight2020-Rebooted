@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5540df84-06c6-4ee4-b61b-4382904f68f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="UIWork" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l4iMwvxtwH1Jnn1B32iSg2kCoK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5540df84-06c6-4ee4-b61b-4382904f68f0" name="Default Changelist" comment="" />
+      <created>1606862719525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606862719525</updated>
+      <workItem from="1606862776351" duration="113000" />
+      <workItem from="1606862937793" duration="136000" />
+      <workItem from="1606863245622" duration="706000" />
+      <workItem from="1606864822902" duration="1007000" />
+      <workItem from="1606865901433" duration="48000" />
+      <workItem from="1606866067063" duration="139000" />
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1606864833286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606864833287</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="UIWork" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="93" key="DiffContextDialog" timestamp="1606865155947">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="0" y="93" key="DiffContextDialog/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606865155947" />
+    <state x="1501" y="254" key="RollbackChangesDialog" timestamp="1606864573467">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1501" y="254" key="RollbackChangesDialog/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606864573467" />
+    <state x="444" y="193" key="SettingsEditor" timestamp="1606865980294">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="444" y="193" key="SettingsEditor/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606865980294" />
+    <state x="405" y="276" key="Vcs.Push.Dialog.v2" timestamp="1606866149634">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="405" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606866149634" />
+    <state x="770" y="275" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1606866109441">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="770" y="275" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606866109441" />
+    <state x="761" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606865351077">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="761" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606865351077" />
+  </component>
+</project>
