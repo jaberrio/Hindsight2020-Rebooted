@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEditor.MemoryProfiler;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using Debug = UnityEngine.Debug;
 
@@ -33,16 +34,28 @@ public class Character : MonoBehaviour
         CharacterData l = saveLoad.LoadData();
         if (l != null)
         {
+            
             hat_R = l.hat_R;
             hat_B = l.hat_B;
             hat_G = l.hat_G;
 
+            gender = l.gender;
+            
+            if (SceneManager.GetActiveScene().name == "CreateCharacter")
+            {
+                hat_R = 0.5f;
+                hat_B = 0.5f;
+                hat_G = 0.5f;
+
+                gender = true;
+            }
+            
             music = l.music;
             sound = l.sound;
             
             c_name = l.name;
 
-            gender = l.gender;
+            
             
             var animator = GetComponent<Animator>();
             
