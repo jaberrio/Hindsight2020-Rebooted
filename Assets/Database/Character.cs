@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEditor.MemoryProfiler;
 using UnityEngine;
 using UnityEngine.UI;
+using Debug = UnityEngine.Debug;
 
 public class Character : MonoBehaviour
 {
@@ -45,6 +47,7 @@ public class Character : MonoBehaviour
             var animator = GetComponent<Animator>();
             
             animator.SetBool("gender",gender);
+            
             
             desatHat_0.GetComponent<SpriteRenderer>().material.color = new Color(hat_R,hat_G,hat_B);
             desatHat_4.GetComponent<SpriteRenderer>().material.color = new Color(hat_R,hat_G,hat_B);

@@ -7,11 +7,15 @@
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="CameraFollow.cs" t="Include" />
         <e p="Database" t="Include">
           <e p="Character.cs" t="Include" />
           <e p="CharacterData.cs" t="Include" />
           <e p="Database.cs" t="Include" />
           <e p="saveLoad.cs" t="Include" />
+        </e>
+        <e p="GameScripts" t="Include">
+          <e p="StartMainGame.cs" t="Include" />
         </e>
         <e p="PlotFiles" t="Include">
           <e p="storyline.txt" t="Include" />
@@ -39,9 +43,6 @@
           <e p="Gameplay" t="Include">
             <e p="Interactable.cs" t="Include" />
           </e>
-        </e>
-        <e p="Tutorial Scripts" t="Include">
-          <e p="Part1.cs" t="Include" />
         </e>
         <e p="UI Scripts" t="Include">
           <e p="CanvasAnimations.cs" t="Include" />
