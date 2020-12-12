@@ -3,4 +3,8 @@ Hindsight 2020 is a turn-based RPG in which you fight against the forces of natu
 
 
 
-To play the Game Demo download the code and run the .exe found inside the _X86 folder. The game will start from there.
+To play the Game Demo download the code and run the Blackbird.exe found inside the _X86 folder. (Blackbird is the dev codename for the project)
+
+The game will start from there.
+
+
