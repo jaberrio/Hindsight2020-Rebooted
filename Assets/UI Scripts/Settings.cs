@@ -44,7 +44,7 @@ public class Settings : MonoBehaviour
         
         if (mov)
         {
-            if (mF.transform.localPosition.y < -300)
+            if (mF.transform.localPosition.y < -220)
             {
                 this.transform.localScale = new Vector3(0,0,0);
                 SG.transform.localScale = new Vector3(0,0,0);

@@ -1,6 +1,5 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -11,6 +10,7 @@ public class startGameB : MonoBehaviour
     private GameObject button;
     private GameObject[] clouds;
     private GameObject[] mountains;
+    
 
     private bool mov = true;
     

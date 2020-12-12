@@ -25,8 +25,313 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5540df84-06c6-4ee4-b61b-4382904f68f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/UI Scripts/CameraFollow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI Scripts/CameraFollow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI Scripts/SignOpen.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI Scripts/SignOpen.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/EditorToUnityLinkerData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/Mono.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/System.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/System.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/System.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/TypesInScenes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.AIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.AndroidJNIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.AnimationModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.AssetBundleModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.AudioModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.CoreModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.DirectorModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.GridModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.IMGUIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.InputLegacyModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.InputModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.ParticleSystemModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.Physics2DModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.PhysicsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.SharedInternalsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.SpriteShapeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.SubsystemsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.TerrainModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.TextRenderingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.TilemapModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.UIElementsNativeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.UIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.UnityAnalyticsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.UnityWebRequestModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.VFXModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.VRModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.VideoModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.XRModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityEngine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/UnityLinkerToEditorData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/mscorlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/Managed/response.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Assembly-CSharp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Assembly-CSharp_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/GenericMethods.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/GenericMethods1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/GenericMethods2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/GenericMethods3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/GenericMethods4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics10.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics12.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics8.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Generics9.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppAttributes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppCodeRegistration.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppCompilerCalculateTypeValues.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppCompilerCalculateTypeValues1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppCompilerCalculateTypeValuesTable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppGenericClassTable.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppGenericComDefinitions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppGenericInstDefinitions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppGenericMethodDefinitions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppGenericMethodPointerTable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppGenericMethodTable.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppInteropDataTable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppInvokerTable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppMetadataRegistration.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppMetadataUsage.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppReversePInvokeWrapperTable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Il2CppTypeDefinitions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Mono.Security.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Mono.Security_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/System.Configuration.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/System.Configuration_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/System.Core.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/System.Core_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/System.Xml.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/System.Xml_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/System.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/System1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/System_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.AIModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.AIModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.AndroidJNIModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.AndroidJNIModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.AnimationModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.AnimationModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.AssetBundleModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.AssetBundleModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.AudioModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.AudioModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.CoreModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.CoreModule1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.CoreModule2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.CoreModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.DirectorModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.DirectorModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.GridModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.GridModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.IMGUIModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.IMGUIModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.InputLegacyModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.InputLegacyModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.InputModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.InputModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.ParticleSystemModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.ParticleSystemModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.Physics2DModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.Physics2DModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.PhysicsModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.PhysicsModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.SharedInternalsModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.SharedInternalsModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.SpriteShapeModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.SpriteShapeModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.SubsystemsModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.SubsystemsModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.TerrainModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.TerrainModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.TextRenderingModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.TextRenderingModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.TilemapModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.TilemapModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UI.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UI1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UI2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UI3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UIElementsNativeModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UIElementsNativeModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UIModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UIModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UI_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UnityAnalyticsModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UnityAnalyticsModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UnityWebRequestModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UnityWebRequestModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.VFXModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.VFXModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.VRModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.VRModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.VideoModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.VideoModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.XRModule.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.XRModule_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnresolvedVirtualCallStubs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_codegen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_debugger.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_gc.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_icalls.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_metadata.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_mono-runtime.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_mono.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_os.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_vm-utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/lumpedcpp/Lump_libil2cpp_vm.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib10.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib12.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib13.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib14.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib15.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib16.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib17.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib8.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib9.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib_CodeGen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/profile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/Resources/unity default resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/Resources/unity_builtin_extra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/app.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/boot.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/globalgamemanagers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/globalgamemanagers.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/Metadata/global-metadata.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/Resources/mscorlib.dll-resources.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/2.0/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/2.0/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/2.0/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/2.0/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/4.0/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/4.0/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/4.0/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/4.0/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/4.5/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/4.5/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/4.5/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/4.5/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/browscap.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/il2cpp_data/etc/mono/mconfig/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/level0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/level1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/level2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/sharedassets0.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/sharedassets0.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/sharedassets0.resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/sharedassets1.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/sharedassets1.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/sharedassets1.resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/sharedassets2.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/sharedassets2.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/BlackBird_Data/sharedassets2.resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/GameAssembly.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/UnityCrashHandler64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/UnityPlayer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86/baselib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlackBird/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlackBird/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlackBird/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlackBird/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BlackBird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlackBird/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Player.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CameraFollow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CameraFollow.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Database/Character.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Database/Character.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Database/Database.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Database/Database.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.Api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/Mono.Posix.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/QuickGuide.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/System.Threading.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/big-logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/credits.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/credits.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/eula.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/eula.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/libsfw.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/libsfw.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/libsfw.so.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/sfw.net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/x64.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/x86.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScreen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScreen.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TitleScreen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TitleScreen.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Character/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Character/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI Scripts/PannelMessage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI Scripts/PannelMessage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI Scripts/Settings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI Scripts/Settings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI Scripts/startGameB.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI Scripts/startGameB.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,17 +347,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/819DE1AA-368E-45FA-A4F7-8E26C97C62B0/c7/c7b6eb33/GUIUtility.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameScripts/StartMainGame.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E6E2FA0A-4741-4CD2-AC33-237924761B45/34/5aebc88d/BuildPlayerOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E6E2FA0A-4741-4CD2-AC33-237924761B45/31/409e909f/BuildPlayerWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E6E2FA0A-4741-4CD2-AC33-237924761B45/c6/706b9831/BuildOptions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/GameScripts/StartMainGame.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Character/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/SignOpen.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/PannelMessage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Database/Database.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameScripts/StartMainGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/startGameB.cs" />
         <option value="$PROJECT_DIR$/Assets/Database/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI Scripts/Settings.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +389,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/x86\BlackBird.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="G:\Desktop\BlackBird\x86" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -86,10 +406,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="11648">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="11648" />
+      <option name="pid" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -111,7 +431,8 @@
       <workItem from="1606865901433" duration="48000" />
       <workItem from="1606866067063" duration="139000" />
       <workItem from="1606866834370" duration="39000" />
-      <workItem from="1607477223129" duration="7326000" />
+      <workItem from="1607477223129" duration="21582000" />
+      <workItem from="1607714181032" duration="2492000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1606864833286</created>
@@ -134,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607535587208</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed CreateCharcterBug onload diff">
+      <created>1607536292760</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607536292760</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +494,8 @@
     <MESSAGE value="123" />
     <MESSAGE value="Setup Object Bumping" />
     <MESSAGE value="Added new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new files" />
+    <MESSAGE value="Fixed CreateCharcterBug onload diff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed CreateCharcterBug onload diff" />
   </component>
   <component name="WindowStateProjectService">
     <state x="341" y="394" key="#xdebugger.evaluate" timestamp="1607488547507">
@@ -177,70 +506,70 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="0" y="93" key="DiffContextDialog/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1606865155947" />
-    <state width="796" height="390" key="GridCell.Tab.0.bottom" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.0.bottom" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.0.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.0.center" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.0.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.0.center" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.0.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.0.left" timestamp="1607488558472">
+    <state width="1257" height="390" key="GridCell.Tab.0.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.0.left" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.0.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558472" />
-    <state width="796" height="390" key="GridCell.Tab.0.right" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.0.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.0.right" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.0.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.1.bottom" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.0.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.1.bottom" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.1.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.1.center" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.1.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.1.center" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.1.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.1.left" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.1.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.1.left" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.1.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.1.right" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.1.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.1.right" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.1.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.2.bottom" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.1.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.2.bottom" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.2.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.2.center" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.2.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.2.center" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.2.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.2.left" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.2.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.2.left" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.2.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.2.right" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.2.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.2.right" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.2.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.3.bottom" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.2.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.3.bottom" timestamp="1607685932154">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.3.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.3.center" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.3.bottom/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932154" />
+    <state width="1257" height="390" key="GridCell.Tab.3.center" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.3.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.3.left" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.3.center/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.3.left" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.3.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
-    <state width="796" height="390" key="GridCell.Tab.3.right" timestamp="1607488558473">
+    <state width="1257" height="390" key="GridCell.Tab.3.left/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
+    <state width="1257" height="390" key="GridCell.Tab.3.right" timestamp="1607685932153">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="796" height="390" key="GridCell.Tab.3.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607488558473" />
+    <state width="1257" height="390" key="GridCell.Tab.3.right/0.0.2560.1080/-2560.3.2560.1080@0.0.2560.1080" timestamp="1607685932153" />
     <state x="1501" y="254" key="RollbackChangesDialog" timestamp="1606864573467">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>

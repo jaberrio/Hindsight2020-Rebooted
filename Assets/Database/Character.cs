@@ -1,12 +1,7 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Diagnostics;
-using UnityEditor.MemoryProfiler;
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
-using Debug = UnityEngine.Debug;
 
 public class Character : MonoBehaviour
 {
@@ -28,6 +23,7 @@ public class Character : MonoBehaviour
     public Animator ani;
     void Start()
     {
+        if (SceneManager.GetActiveScene().name == "TitleScreen") return;
         desatHat_0 = GameObject.Find("desatHat_0");
         desatHat_4 = GameObject.Find("desatHat_4");
 

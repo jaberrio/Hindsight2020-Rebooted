@@ -12,24 +12,18 @@ public class PannelMessage : MonoBehaviour
     void Start()
     {
         
-    }
+    } 
 
     // Update is called once per frame
     void Update()
     {
-        if (Time.time > clearDelta)
-        {
-            GetComponent<Image>().enabled = false;
-            clearDelta += 1000000;
-            Debug.Log("Help But Dont");
-            
-        }    
+        
     }
 
     public void setText(String text, int time)
     {
-        clearDelta = Time.time + time;
-        Debug.Log("Help");
         GetComponent<Image>().enabled = true;
+        GetComponentInChildren<Text>().enabled = true;
+        
     }
 }

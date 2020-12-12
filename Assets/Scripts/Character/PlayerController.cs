@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -13,6 +14,8 @@ public class PlayerController : MonoBehaviour
     private Vector2 input;
     private Animator animator;
 
+    public GameObject messagePannel;
+    
     private void Awake()
     {
         animator = GetComponent<Animator>();
@@ -25,6 +28,17 @@ public class PlayerController : MonoBehaviour
             input.x = Input.GetAxisRaw("Horizontal");
             input.y = Input.GetAxisRaw("Vertical");
 
+            if (Input.GetKey("space"))
+            {
+                moveSpeed = 3000;
+            }
+            else
+            {
+                moveSpeed = 1000;
+            }
+            
+            
+            
             //Remove diagonal movement
             if (input.x != 0) input.y = 0;
 
@@ -58,7 +72,7 @@ public class PlayerController : MonoBehaviour
         var facingDir = new Vector3(animator.GetFloat(("moveX")), animator.GetFloat("moveY"));
         var interactPos = transform.position + facingDir;
         
-        var collider = Physics2D.OverlapCircle(interactPos, 0.5f, interactableLayer);
+        var collider = Physics2D.OverlapCircle(interactPos, 1f, interactableLayer);
         if (collider != null)
         {
             collider.GetComponent<Interactable>()?.Interact();
@@ -68,6 +82,9 @@ public class PlayerController : MonoBehaviour
     IEnumerator Move(Vector3 targetPos)
     {
         isMoving = true;
+        
+        messagePannel.GetComponentInChildren<Text>().enabled = false;
+        messagePannel.GetComponent<Image>().enabled = false;
         
         while ((targetPos - transform.position).sqrMagnitude > Mathf.Epsilon)
         {
